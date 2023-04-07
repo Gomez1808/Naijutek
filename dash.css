@@ -1,0 +1,84 @@
+/* CSS untuk halaman Dashboard */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e9e6e9;
+  }
+  
+  .dashboard-wrapper {
+    background-color: #8b518b;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #e9e1e1;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+    color: #fffbfb;
+    margin-bottom: 30px;
+  }
+  
+  a {
+    display: inline-block;
+    background-color: #f3ecec;
+    color: #53315a;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  a:hover {
+    background-color: #543064;
+  }
+  
+  /* CSS untuk halaman Logout */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #130f13;
+  }
+  
+  .logout-wrapper {
+    background-color: #c158d6;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #fffefe;
+    margin-bottom: 20px;
+  }
+  
+  a {
+    display: inline-block;
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  a:hover {
+    background-color: #222222;
+  }
+  
